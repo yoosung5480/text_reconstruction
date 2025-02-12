@@ -1,0 +1,13 @@
+# 모델 파일 제외
+trained_encoder*
+*.pth
+
+# 데이터셋 제외
+datas/
+*.csv
+*.txt
+
+# 캐시 및 기타 임시 파일
+__pycache__/
+*.log
+.DS_Store
