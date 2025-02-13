@@ -1,5 +1,5 @@
 # 모델 파일 제외
-trained_encoder*
+trained*
 *.pth
 
 # 데이터셋 제외
